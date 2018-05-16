@@ -18,7 +18,7 @@
     },
     "require": {
         "php": ">=7",
-        "andrey-mashukov/blockinfo": "^0.1"
+        "andrey-mashukov/blockinfo": "dev-master"
     },
     "autoload-dev" : {
         "psr-4" : {
